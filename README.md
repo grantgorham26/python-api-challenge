@@ -8,16 +8,13 @@ To start the vacation/hotel analysis the csv that was exported in part 1 of this
 
 
 
-
-#Weather Plot Examples 
-
-
+# Weather Plot Examples 
 <img width="626" alt="Screenshot 2024-04-02 at 10 50 07 PM" src="https://github.com/grantgorham26/python-api-challenge/assets/154031840/b79500ba-1287-4278-a586-f6e2c6655d0e">
 <img width="640" alt="Screenshot 2024-04-02 at 10 50 15 PM" src="https://github.com/grantgorham26/python-api-challenge/assets/154031840/e164b885-20a2-4a25-b38b-0d7dc076927d">
 <img width="626" alt="Screenshot 2024-04-02 at 10 50 25 PM" src="https://github.com/grantgorham26/python-api-challenge/assets/154031840/c5cab76d-92ae-4b41-8235-e9d2c055eb83">
 <img width="615" alt="Screenshot 2024-04-02 at 10 50 34 PM" src="https://github.com/grantgorham26/python-api-challenge/assets/154031840/85a339ce-152f-47ad-90c5-98a5b6ab9d86">
 
-#Vacation/hotel Plots
+# Vacation/hotel Plots
 <img width="1031" alt="Screenshot 2024-04-02 at 10 49 32 PM" src="https://github.com/grantgorham26/python-api-challenge/assets/154031840/4bf3f6bf-c267-49f3-b0d7-e4cfa2bf729e">
 <img width="1035" alt="Screenshot 2024-04-02 at 10 49 42 PM" src="https://github.com/grantgorham26/python-api-challenge/assets/154031840/9ab51039-c3e5-4431-9886-38077f2ed5ab">
 
